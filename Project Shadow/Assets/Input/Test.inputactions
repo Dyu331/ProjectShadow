@@ -1,0 +1,34 @@
+{
+    "name": "Test",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "0ed8c699-ff66-4dbf-938a-87087b3bc8cf",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "14d7335f-d3a8-46f7-960f-57b9341ff81e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b0a953f0-cc5f-4a6f-ac11-78dbd06090bb",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
